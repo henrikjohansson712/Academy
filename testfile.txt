@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Academy är bäst!!
+=======
+pooop
+>>>>>>> 2a08965aae11b8025ece1faf342dba310c3f24e4
+jlllll
